@@ -54,7 +54,7 @@ const V = pi*Rad**2;
 console.log(V)
 console.log(2*pi*Rad)
 
-const num3 = 123;
+const num3 = 223;
 const modul= (num3/100)%1
 console.log(num3/100-modul)
 
